@@ -1,7 +1,7 @@
 
 ### How to deploy and configure: ###
 
-##### 1. Generate SSH key on Host machine and put *id_rsa.pub* it near the Dockerfile
+##### 1. Generate SSH key on Host machine and put *id_rsa.pub* near the Dockerfile
 
 `ssh-keygen`
 
